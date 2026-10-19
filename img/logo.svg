@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 930 500" role="img" aria-label="Camisas Mantova Italia">
+  <rect width="930" height="500" fill="#2a3f9d"/>
+  <text x="465" y="128" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="118" letter-spacing="6" fill="#fff">CAMISAS</text>
+  <rect x="68" y="150" width="264" height="175" fill="#2f8f4e"/>
+  <rect x="332" y="150" width="266" height="175" fill="#ffffff"/>
+  <rect x="598" y="150" width="264" height="175" fill="#d9483b"/>
+  <text x="465" y="420" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="118" letter-spacing="6" fill="#fff">MANTOVA</text>
+  <text x="72" y="478" font-family="Helvetica, Arial, sans-serif" font-size="52" letter-spacing="4" fill="#fff">ITALIA</text>
+</svg>

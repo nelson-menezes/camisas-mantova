@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.camisasmantova.com.br/sitemap.xml
+Sitemap: https://nelson-menezes.github.io/camisas-mantova/sitemap.xml
